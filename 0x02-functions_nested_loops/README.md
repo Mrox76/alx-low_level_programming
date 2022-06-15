@@ -1,4 +1,5 @@
 Nested loops
+<<<<<<< HEAD
 
 0. Write a program that prints _putchar. folowed by a new line;
 1. Write a function that prints the alphapet, followed by a new line;
@@ -14,3 +15,5 @@ Nested loops
 11. Write a function that prints all natural numers from n to 98, followed by a new line;
 
 
+=======
+>>>>>>> 9bec36fdd212b7d0f54c7888e161cab520abd712
